@@ -1,0 +1,50 @@
+body{
+    background: url(pexels-polina-tankilevitch-4519014.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.meal-selection{
+  width:1200px;
+  margin: auto ;
+  text-align: center;
+  
+  
+
+}
+h1{
+    margin: 120px;
+    color: black;
+}
+
+.meal-option{
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+    display: inline-block;
+    width: 20%;
+}
+.meal-option a button{
+   background-color:greenyellow;
+border-radius:40px ;
+
+}
+
+
+.meal-option a button:hover{
+    transform: scale(1.25);
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+h2{
+    margin: 10px;
+    color:#940;
+
+}
+p{
+    color:black;
+}
